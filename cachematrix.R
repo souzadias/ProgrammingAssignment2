@@ -14,7 +14,7 @@
 ##         getmean = getmean)
 ##}
 ## makeVector()
-
+##
 ## Modified function according to exercise
 makeCacheMatrix <- function (x = matrix()) {
     m <- null
@@ -44,7 +44,7 @@ makeCacheMatrix <- function (x = matrix()) {
 ##    x$setmean(m)
 ##    m
 ##}
-
+##
 ## Modified function according to exercise
 cachesolve <- function(x, ...) {
     m <-  x$getsolve(
